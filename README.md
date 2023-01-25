@@ -2,9 +2,10 @@
 
 - JavaScript wizard
 - Coding actively since 2018
-- OSS fan
+- Open-source software aficionado
+- Curious about my pfp? Learn more in my [pi-visualized](https://github.com/elijaholmos/pi-visualized) repo
 
-## Top Projects
+## Top OSS Projects
 
 - [Halo Notification Service](https://github.com/elijaholmos/halo-discord-bot)
   - Reverse-engineered my school's proprietary LMS to send students Discord notifications for grades, announcements, and more
